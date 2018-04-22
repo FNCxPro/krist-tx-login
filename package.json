@@ -1,0 +1,13 @@
+{
+  "name": "krist-tx-login",
+  "version": "0.1.0",
+  "description": "A transactional-based login system for Krist",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "eventemitter3": "^3.0.1",
+    "snekfetch": "^3.6.4",
+    "uuid": "^3.2.1",
+    "ws": "^5.1.1"
+  }
+}
